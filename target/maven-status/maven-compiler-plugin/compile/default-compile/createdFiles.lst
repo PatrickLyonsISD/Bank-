@@ -1,0 +1,5 @@
+com\homelab\bankapp\BankAccount.class
+com\homelab\bankapp\Main.class
+com\homelab\bankapp\Bank.class
+com\homelab\bankapp\BankAppApplication.class
+com\homelab\bankapp\HelloController.class
